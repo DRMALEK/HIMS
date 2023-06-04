@@ -5,7 +5,6 @@ __Healthcare Information Management System (HIMS)__ is an application created as
 The application uses [__sqlite3__](https://docs.python.org/3/library/sqlite3.html) module for database management purposes, [__streamlit__](https://www.streamlit.io/) to create the user interface and make the application work, and [__pandas__](https://pandas.pydata.org/) to facilitate working with the data.
 
 ### Requirements
-
 * __Python 3.7.4__ or any higher version
 * __pandas__ and __streamlit__
   * To install the packages mentioned above, go to command prompt/terminal and execute the following commands:
